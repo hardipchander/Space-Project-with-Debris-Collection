@@ -2,7 +2,7 @@
 In this project I cleared out all the debris on the Space Map using my Robots.
 The Space Map is a 2d grid and the Bots are all numbered when seen on the Space Map.
 The goal of this project is to clear all the debris on the Space Map with the Robots as fast as possible. 
-In the file bot.cpp I programmed the Robots and how they act actions.
+In the file bot.cpp I programmed the Robots and how they act.
 
 
 How to run the program on the Terminal with g++ compiler 
